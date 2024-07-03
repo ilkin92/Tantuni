@@ -1,0 +1,57 @@
+
+.App{
+    margin-top: 100px;
+}
+
+
+.container{
+   
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+
+.container .selected{
+    
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    
+ 
+   
+ 
+}
+.selected img{
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.input{
+    
+    
+    
+    width: 700px;
+    height: 208px;
+    margin-top: 60px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    column-gap: 5px;
+
+
+
+}
+.input img{
+
+    width: 100px;
+    height: 100px;
+   
+    display: block;
+    cursor: pointer;
+    margin: 2px;
+
+}
