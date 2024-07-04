@@ -1,27 +1,12 @@
 export default[
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD7ken6AemmpqUlUyYR4T94VoFYNnj2RXCQ&s",
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB_DJ_FXh96-HEGQ0lpDezx-ZEEdPFa1LNw&s",
-
-   'https://images.squarespace-cdn.com/content/v1/5e90513ca74b5254da14cca1/1633220789736-8VI8FTX5EFLTMDFWOXBD/image-asset.jpeg',
-
-'https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1719964800&semt=sph',
-
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD7ken6AemmpqUlUyYR4T94VoFYNnj2RXCQ&s",
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB_DJ_FXh96-HEGQ0lpDezx-ZEEdPFa1LNw&s",
-
-   'https://images.squarespace-cdn.com/content/v1/5e90513ca74b5254da14cca1/1633220789736-8VI8FTX5EFLTMDFWOXBD/image-asset.jpeg',
-
-'https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1719964800&semt=sph',
+   
 
 
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD7ken6AemmpqUlUyYR4T94VoFYNnj2RXCQ&s",
-   " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB_DJ_FXh96-HEGQ0lpDezx-ZEEdPFa1LNw&s",
-
-   'https://images.squarespace-cdn.com/content/v1/5e90513ca74b5254da14cca1/1633220789736-8VI8FTX5EFLTMDFWOXBD/image-asset.jpeg',
-
-'https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1719964800&semt=sph'
-
-
-
+"https://upload.wikimedia.org/wikipedia/commons/b/bc/Tantuni_sokak_yeme%C4%9Fi.jpg",
+"https://imgrosetta.mynet.com.tr/file/11990709/11990709-728xauto.jpg",
+"https://media-cdn.tripadvisor.com/media/photo-s/0e/ac/1d/e7/ekmek-tantuni.jpg",
+// "https://i.ytimg.com/vi/ZsuDMqjEcCQ/maxresdefault.jpg",
+"https://cdn.getiryemek.com/products/1552376081831_500x375.png",
+"https://silkroadrecipes.com/wp-content/uploads/2022/04/Tantuni-Wraps-square.jpg"
 
 ]
